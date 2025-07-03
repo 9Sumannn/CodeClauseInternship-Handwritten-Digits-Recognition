@@ -28,7 +28,7 @@ This structure is known as a feedforward architecture because the connections in
 
 How to use
 ```    
-git clone https://github.com/itssourav27/CodeClauseInternship_Handwritten-Digits-Recognition.git
+git clone https://github.com/9Sumannn/CodeClauseInternship_Handwritten-Digits-Recognition.git
 cd Handwritten-Digit-Recognition
 pip3 install -r requirements.txt 
 python3 tf_cnn.py
